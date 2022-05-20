@@ -17,3 +17,13 @@
 
   http://www.imparareaprogrammare.it
 */
+var gatti = 5;
+var file = 2;
+
+var numfile = Math.ceil (gatto/file);
+var mancanti = (numfile*file-gatti);
+
+console.log(${gatti}) gatti in fila per ${file} si unirono compatti in ${numfile} nell utima fila rimasero${mancanti}posti gatto;
+
+
+ 
